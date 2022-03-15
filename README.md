@@ -15,7 +15,7 @@
 Criar projeto:
 
 ``
-serverless create --template aws-node-typescript --path nomeDaPasta
+serverless create --template aws-nodejs-typescript --path nomeDaPasta
 ``
 
 Instalar a lib para rodar na maquina local
